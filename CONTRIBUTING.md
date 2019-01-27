@@ -24,7 +24,7 @@ Listen, this project is just something I made in my free time. I pay for the hos
 So if you could help me monetarily, I would love you so much (no homo tho). If you're interested:
 
 - I have a [Patreon](https://patreon.com/xdrixxyz)
-- I have a [Bitcoin address](bitcoin:352Uoq457FFSTrHose3LvFbgtxavLYz8kQ)
+- I have a **Bitcoin address**: `352Uoq457FFSTrHose3LvFbgtxavLYz8kQ`
 - I have a **Stellar Lumens federation address**: `xdrixxyz*keybase.io`
 - I have a **Stellar Lumens wallet address**: `GCF7YRF6VLLE53ZRO3NJ7UIN6ENEAL2II3RXK4LB4NR4GF6TYAIDLJG5`
 - I have a **PayPal**: `mcminers9@gmail.com
